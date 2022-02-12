@@ -1,0 +1,17 @@
+---
+title: "_site"
+author: "Edgar Caballero"
+date: "02/12/2022"
+output: html_document
+
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+---
+

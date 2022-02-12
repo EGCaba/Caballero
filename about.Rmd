@@ -1,0 +1,10 @@
+---
+title: "about"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I  am curious person who likes to spend the time in learning new things about research and data science.
