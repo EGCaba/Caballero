@@ -7,3 +7,33 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ¡ Hola mundo !
+
+Soy Edgar Caballero, un entusiasta de la tecnología y la ciencia de datos. Este es mi primer proyecto para convertirme en un __científico de datos__
+
+
+Actualmente soy pasante en el Instituto Smithsonian de Investigaciones Tropicales en Panamá (STRI, por sus siglas en inglés) aprendiendo sobre Bioinformática.
+
+
+
+
+Estoy utilizando este blog para compartir mis conocimientos sobre análisis de datos usando RStudio y otra plataformas. 
+
+
+
+
+Encontrarás que este proyecto es nuevo ,por lo que se actualizará, habrán más cambios y escribiré sobre mis proyectos de manera más informal a lo que se espera
+en el mundo academico (pero también publicaré de manera más formal sobre Bioinformática y las investigaciones en las que estoy involucrado).
+
+
+
+
+
+Bueno sin más que añadir, hasta la próxima.
+
+
+
+
+```{r, echo=FALSE, out.width= "90%", fig.align='center'}
+knitr::include_graphics("images/pa.jpg")
+
+

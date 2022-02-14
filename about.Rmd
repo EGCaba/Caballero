@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "Acerca de mi"
 output: html_document
 ---
 
@@ -7,4 +7,26 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I  am curious person who likes to spend the time in learning new things about research and data science.
+__NOMBRE__ : Edgar Caballero
+
+
+__NACIONALIDAD__: Panameño
+
+
+__EDUCACIÓN__: Licenciatura en Biología, Universidad de Panamá (2021)
+
+
+__OCUPACIÓN ACTUAL__: Asistente de Investigación.
+
+
+__INTERESES__: Bioinformática, Ciencia de datos, estadísticas, genética de poblaciones.
+
+
+PD: Me considero un fanático de los animes y cómics.
+
+
+
+
+
+```{r, echo=FALSE, out.width= "50%", fig.align='center'}
+knitr::include_graphics("images/pic.jpg")
